@@ -1,0 +1,13 @@
+{
+    "idlibro": 1,
+    "precio" :200,
+    "disponible": true,
+    "detalleslibro":{
+        "nombreautor": "nehemias",
+        "fecha":"21/01/21",
+        "pais de origen":"guatemala,chimaltenango",
+        "editoriales":"larouse,rosal"
+    },
+    "edicion":["1ra","2da","3ra"],
+    "stock_libreia": null
+}
